@@ -1,0 +1,22 @@
+"*":
+  "exception-reporting":
+    userId: "9207e18e-e730-b4ad-2ff0-6ad532b6ab98"
+  core:
+    projectHome: "/Users/daniel/projects/intellij"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    invisibles: {}
+    tabLength: 4
+    fontFamily: "Lucida Grande"
+    scrollSensitivity: 20
+    showIndentGuide: true
+    undoGroupingInterval: 200
+    fontSize: 13
+  minimap: {}
+  "atom-material-ui":
+    slimScrollbar: true
+  welcome:
+    showOnStartup: false
